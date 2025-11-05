@@ -1,7 +1,16 @@
 #include <iostream>
 #include <string>
 #include <vector>
+/*
 
+
+BURDA KODUN ICINDE GUYAKI DEYISIKLIK ETDIM
+
+
+
+
+
+*/
 
 using namespace std;
 
